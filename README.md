@@ -40,10 +40,12 @@ The most problematic stage in assessing IDS is determining the proper dataset. T
 * Features: 77 + label columns
 * 9-attacks: BotNet, FTP Brute Force, DoS, DDoS, Heartbleed, Infilteration, SSH Brute Force, Web Attacks, and PortScan
 * Problems: contains missing values, infinity values
+* **Link:** https://www.kaggle.com/cicdataset/cicids2017
 
 **2) UNSW-NB15:** The UNSW-NB15 dataset has also been analyzed by The significant features from this dataset are selected by using various attributes of selection methods, including CfsSubsetEval of the greedy stepwise method and InfoGainAttibuteEval of the ranker method. The optimal selected attributes subset is then employed for the categorization by using several ML algorithms, including RF. The categorization that employs selective features shows improvements in its kappa statistics. Therefore, a weighted feature selection technique is recommended for identifying Wi-Fi impersonation through the AWID dataset. Appendix A lists the different datasets that have been used in the literature for evaluating AIDS.
 * Records: 1,087,204
 * Features: 44 + label column
 * 9-attacks: Back Doors, DoS, Exploits, Worms, Fuzzers, Analysis Attacks, Shell Code Attacks, Reconnaissance Attacks, and Generic Attacks.
 * Problem: contains missing values
+* **Link:** https://www.kaggle.com/mrwellsdavid/unsw-nb15
 
